@@ -8,4 +8,7 @@ using LinQTutorial.Latihan;
 
 //MainLatihan.main();
 //SelectClausa.main();
-JoinClause.main();
+//JoinClause.main();
+//IntoClause.main();
+
+MultipleJoin.main();
